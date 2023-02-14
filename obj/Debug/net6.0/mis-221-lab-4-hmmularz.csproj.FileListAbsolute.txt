@@ -1,0 +1,15 @@
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/bin/Debug/net6.0/mis-221-lab-4-hmmularz
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/bin/Debug/net6.0/mis-221-lab-4-hmmularz.deps.json
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/bin/Debug/net6.0/mis-221-lab-4-hmmularz.runtimeconfig.json
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/bin/Debug/net6.0/mis-221-lab-4-hmmularz.dll
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/bin/Debug/net6.0/mis-221-lab-4-hmmularz.pdb
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/mis-221-lab-4-hmmularz.csproj.AssemblyReference.cache
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/mis-221-lab-4-hmmularz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/mis-221-lab-4-hmmularz.AssemblyInfoInputs.cache
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/mis-221-lab-4-hmmularz.AssemblyInfo.cs
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/mis-221-lab-4-hmmularz.csproj.CoreCompileInputs.cache
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/mis-221-lab-4-hmmularz.dll
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/refint/mis-221-lab-4-hmmularz.dll
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/mis-221-lab-4-hmmularz.pdb
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/mis-221-lab-4-hmmularz.genruntimeconfig.cache
+/Users/holly/Documents/source/repos/Spring 2023/mis221/mis-221-lab-4-hmmularz/obj/Debug/net6.0/ref/mis-221-lab-4-hmmularz.dll
